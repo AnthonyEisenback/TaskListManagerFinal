@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskManager2</string>
+    <string name="tab_text_1">All Tasks</string>
+    <string name="tab_text_2">Incomplete Tasks</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="task_1_s">Task: %1$s</string>
+    <string name="description">%1$s</string>
+</resources>
